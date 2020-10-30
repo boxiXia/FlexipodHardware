@@ -7,6 +7,7 @@ Flexipod stand on sand
 # Mechiancl parts
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_printed_parts_DSC1694.png" width="40%" height="40%">
 All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, VIVEDINO) with a standard 0.4 mm nozzle at 0.2 mm layer height. For soft print, skins are only printed at mating surfaces, since the outer skins of the printed parts will greatly reduce the flexibility.  
+
 1. leg: print with 16% infill density(Gyroid pattern) and 80% flow using flexible TPU (Cheetah flexible filament, Ninjatek).
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/leg.png" width="40%" height="40%">
 2. leg adaptor: rigid filament (PolyMax™ PC, Playmaker)
