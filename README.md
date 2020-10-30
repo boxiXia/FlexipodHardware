@@ -35,3 +35,5 @@ All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, V
 9. lower body: print with 20% infill density(Gyroid pattern) and 90% flow using flexible TPU (Cheetah flexible filament, Ninjatek).
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/lower_body.png" width="40%" height="40%">
 
+# Electrical parts
+<img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/electronics.jpg" width="40%" height="40%">
