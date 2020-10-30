@@ -14,7 +14,7 @@ All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, V
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/leg_coupler.png" width="40%" height="40%">
 3. motor mount outer part: print with 20% infill density(Gyroid pattern) and 90% flow using flexible TPU (Cheetah flexible filament, Ninjatek).
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/motor_mount_out.png" width="40%" height="40%">
-4. bearing: [Link](https://www.amazon.com)
+4. bearing: [Link]('https://www.amazon.com')
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/Bearing.jpg" width="20%" height="20%">
 5. motor mount inner part: print with 20% infill density(Gyroid pattern) and 90% flow using flexible TPU (Cheetah flexible filament, Ninjatek).
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/motor_mount_in.png" width="40%" height="40%">
