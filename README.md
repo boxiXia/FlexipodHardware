@@ -1,5 +1,4 @@
 # FlexipodHardware
-![image](https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_assembly.png)
-CAD model for the Flexipod
-![image](https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod.jpg)
-Flexipod stand on sand
+<img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_assembly.png" width="150" height="200" alt="CAD model for the Flexipod"/>
+
+<img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod.jpg" width="150" height="200" alt="Flexipod stand on sand"/>
