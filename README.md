@@ -1,10 +1,12 @@
 # FlexipodHardware
+
+## 3D rendering and dimension of Flexipod
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_assembly.png" width="60%" height="60%">
 CAD model for the Flexipod
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod.jpg" width="40%" height="40%">
 Flexipod stand on sand
 
-# Mechiancl parts
+## Mechiancl parts
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_printed_parts_DSC1694.png" width="40%" height="40%">
 All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, VIVEDINO) with a standard 0.4 mm nozzle at 0.2 mm layer height. For soft print, skins are only printed at mating surfaces, since the outer skins of the printed parts will greatly reduce the flexibility.
 
@@ -35,5 +37,9 @@ All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, V
 9. lower body: print with 20% infill density(Gyroid pattern) and 90% flow using flexible TPU (Cheetah flexible filament, Ninjatek).
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/lower_body.png" width="40%" height="40%">
 
-# Electrical parts
+## Electrical parts
+electrical system of the Flexipod
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/electronics.jpg" width="40%" height="40%">
+
+1. Raspberry Pi 4B : ([Link](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_5?crid=2TAFP75A787CM&dchild=1&keywords=raspberry+pi+4&sprefix=raspberr%2Caps%2C187&sr=8-5))
+<img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/raspberry%20pi%204B.jpg" width="40%" height="40%">
