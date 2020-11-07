@@ -59,3 +59,5 @@ electrical system of the Flexipod
 8. [ESC](https://store.dji.com/product/rm-c620-brushless-dc-motor-speed-controller?set_country=US&gclid=EAIaIQobChMI2s7r6Oi56wIVDsDICh1QPgAQEAYYASABEgI1tvD_BwE)
 
 9. [Motor](https://store.dji.com/product/rm-m3508-p19-brushless-dc-gear-motor?set_country=US&gclid=EAIaIQobChMI_8WYiem56wIVluSzCh2VIABiEAYYASABEgJY_vD_BwE)
+
+10. [Custom PCB](https://github.com/boxiXia/FlexipodHardware/tree/master/mechanical_model/PCB/Gerber%20%26%20drill)
