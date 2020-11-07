@@ -6,6 +6,12 @@ CAD model for the Flexipod
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod.jpg" width="40%" height="40%">
 Flexipod stand on sand
 
+## Prerequisite
+Software: Inventor and Cura(or some other slice software for 3D printing)
+Filament: [Cheetah flexible filament, Ninjatek](https://ninjatek.com/cheetah/)
+          [PolyMax™ PC, Playmaker](https://www.amazon.com/dp/B01KT3K0FW/?coliid=ISKG6U7RH7ZF8&colid=118CNRRRVL2LQ&psc=1&ref_=lv_ov_lig_dp_it)
+Super glue: [Gorilla Super Glue](https://www.amazon.com/Gorilla-Super-Brush-Nozzle-Applicator/dp/B01LYO4R4I/ref=sr_1_4?crid=1XCD6SS1SOGKY&dchild=1&keywords=super+glue&sprefix=super%2Caps%2C170&sr=8-4)
+
 ## Mechiancl parts
 <img src="https://github.com/boxiXia/FlexipodHardware/blob/master/images/flexipod_printed_parts_DSC1694.png" width="40%" height="40%">
 All the printed parts are printed by a FDM 3D printer(Troodon Core-XY printer, VIVEDINO) with a standard 0.4 mm nozzle at 0.2 mm layer height. For soft print, skins are only printed at mating surfaces, since the outer skins of the printed parts will greatly reduce the flexibility.
