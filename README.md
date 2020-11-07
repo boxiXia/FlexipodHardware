@@ -7,7 +7,7 @@ CAD model for the Flexipod
 Flexipod stand on sand
 
 ## Prerequisite
-Software: Inventor and Cura(or some other slice software for 3D printing)
+Software: Inventor and Cura(or some other slice software for 3D printing)     
 Filament: [Cheetah flexible filament, Ninjatek](https://ninjatek.com/cheetah/)
           [PolyMax™ PC, Playmaker](https://www.amazon.com/dp/B01KT3K0FW/?coliid=ISKG6U7RH7ZF8&colid=118CNRRRVL2LQ&psc=1&ref_=lv_ov_lig_dp_it)
 Super glue: [Gorilla Super Glue](https://www.amazon.com/Gorilla-Super-Brush-Nozzle-Applicator/dp/B01LYO4R4I/ref=sr_1_4?crid=1XCD6SS1SOGKY&dchild=1&keywords=super+glue&sprefix=super%2Caps%2C170&sr=8-4)
