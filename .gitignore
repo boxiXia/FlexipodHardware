@@ -2,6 +2,4 @@
 mechanical_model/lockfile.lck
 *.lck
 
-mechanical_model/OldVersions/
-
-mechanical_model/PCB/OldVersions/
+*/OldVersions/
